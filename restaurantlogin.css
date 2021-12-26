@@ -1,0 +1,29 @@
+input,select {
+  margin-bottom:3px;
+  padding:10px;
+  width: 100%;
+  border:1px solid #CCC
+}
+form
+		{
+			transform: translate(0%,90%);
+
+		}
+
+body
+{
+      background-image:linear-gradient(rgba(4,0,0,0.7),rgba(0,0,0,0.7)),url(bg.jpg);
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+}
+header
+{
+  font-weight: bold;
+    font-size: 29px;
+    font-family: 'Quicksand-Regular';
+    top: -57px;
+    position: absolute;
+    color: orange;
+    left: 14%;
+}

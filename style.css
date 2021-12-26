@@ -1,0 +1,92 @@
+ @font-face
+{
+  font-family: 'Quicksand-Regular';
+  src: url('Quicksand-Regular.otf');
+}
+		nav > a /* Child selector in CSS*/
+		{
+			text-decoration: none;
+    float: right;
+    font-family: 'Quicksand-Regular';
+    color: black;
+    font-size: 18px;
+    margin-right: 125px;
+}
+nav
+{
+	background-color: #ffb939;
+    height: 25px;
+    margin-top: -8px;
+    padding: 20px;
+    margin-left: -10px;
+    width: 100%;
+}
+	
+        .switchlabel
+        {
+            color: orange;
+            text-align: center;
+            margin-left: 25px;
+            font-family: 'Quicksand-Regular';
+            font-size: 18px;
+        }
+
+ @font-face
+{
+  font-family: 'Quicksand-Bold';
+  src: url('Quicksand-Bold.otf');
+}
+        .extra {
+  margin:0 auto;
+  width:279px;
+  transform: translate(0%,114%);
+
+}
+
+.loginbutton
+{
+        width:116%;
+    background-color: #ffae02;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 3px;
+    border: none;
+    font-family: 'Quicksand-Regular';
+}
+
+button {
+  padding:10px
+}
+label {
+  cursor:pointer
+}
+#form-switch {
+  display:none
+}
+#register-form {
+  display:none
+}
+#form-switch:checked~#register-form {
+  display:block
+}
+#form-switch:checked~#login-form {
+  display:none
+}
+
+h6
+{
+  margin-top: 314px;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 17px;
+}
+header
+{
+  font-weight: bold;
+    font-size: 29px;
+    font-family: 'Quicksand-Regular';
+    top: -57px;
+    position: absolute;
+    color: orange;
+    left: 14%;
+}
