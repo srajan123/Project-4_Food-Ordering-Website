@@ -1,4 +1,4 @@
-# 🍔 Foodshala - Food Ordering Website
+# 🍔 Foodshala
 #### _(Developed separate UI Interface for Customer and Restaurant)_
 > 
 > ## **_Customer UI :_**
